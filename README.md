@@ -4,7 +4,7 @@
 
 <p>Atividade: Conta Bancária
 
-Nesta atividade, foi testado os conceitos de Orientação a Objetos simulando a criação de diversos tipos de contas bancárias e operações disponíveis em cada uma HTML5 e JavaScript.</p>
+Nesta atividade, foi testado os conceitos de Orientação a Objetos simulando a criação de diversos tipos de contas bancárias e operações disponíveis em cada uma, utilizando tecnologias simples como HTML5 e JavaScript.</p>
 
 <h1>⁉️ Motivo</h1>
 
